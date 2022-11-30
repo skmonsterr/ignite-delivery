@@ -31,6 +31,7 @@ Describe what you learned and implemented in the project.
 - [x] Express
 - [x] Bcrypt
 - [x] JWT 
+- [x] Jest
 
 ## 🚀 Running the project
 
