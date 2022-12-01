@@ -12,16 +12,9 @@ Projeto de entregas onde vamos usar tecnologias como Prisma, JWT, Bcrypt
 
 🚧 Project under construction 🚧
 
-## 🎨 Layout
-
-Layout developed by [Name](https://www.instagram.com/urlName/)
-
-[![Layout in Figma](https://github.com/skmonsterr/default-readme/blob/master/assets/layout-in-figma.svg)](https://www.figma.com/files)
-
-
 ## 👏 Learning and more implementations
 
-Describe what you learned and implemented in the project.
+Foco no aprendizado de JWT e Bcrypt
 
 ## 💡 Technologies used
 
@@ -40,7 +33,7 @@ Describe what you learned and implemented in the project.
 Clone the project
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/skmonsterr/ignite-delivery
 ```
 
 Enter the project directory
